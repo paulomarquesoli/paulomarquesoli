@@ -1,4 +1,4 @@
-### Olá! Me chamo Paulo Marques e desenvolvedor Front-end
+### Olá! Me chamo Paulo Marques e sou desenvolvedor Front-end
 
 ##
 
